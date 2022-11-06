@@ -36,3 +36,5 @@ y.onload = ()=>{
 }
 y.send()
 console.log("hello");
+console.log("hajox");
+console.log("bya");
