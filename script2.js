@@ -35,3 +35,4 @@ y.onload = ()=>{
     }
 }
 y.send()
+console.log("hello");
