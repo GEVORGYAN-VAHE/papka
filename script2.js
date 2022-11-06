@@ -35,3 +35,5 @@ y.onload = ()=>{
     }
 }
 y.send()
+
+console.log('h3Mac');
