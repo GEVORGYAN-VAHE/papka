@@ -36,3 +36,4 @@ y.onload = ()=>{
 }
 y.send()
 console.log("hello");
+alert('for example')
