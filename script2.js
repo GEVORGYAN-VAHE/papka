@@ -37,3 +37,4 @@ y.onload = ()=>{
 y.send()
 console.log("hello");
 alert('for example')
+console.log('es avelacvel em mainic heto');
